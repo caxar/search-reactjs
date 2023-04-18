@@ -9,4 +9,4 @@
 3. Так же есть переключения darkMode 
 4. Функционал ограничен так как это просто для сайта API поиска 
 ---------------------------------------------------------------------
-![Alt text](relative%20path/src/assets/google-home.png "Title")
+![Alt text](./src/assets/google-home.png "Title")
