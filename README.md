@@ -1,2 +1,14 @@
-# Hi there,  ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### It's a google clone search 
+# Привет,  ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+## Это клон гугл поисковика сделанный с помощью React, tailwind, сборщик vite 
+** что бы запустить приложения нужно скачать репозиторий
+** утановить npm (npm install)
+** дале написать (npm run dev)
+--------------------------------------------------------------------
+### Работает поиск 
+### Вкладка картинки 
+### Так же есть переключения darkMode 
+### Функционал ограничен так как это просто для сайта API поиска 
+
+
+---------------------------------------------------------------------
+<image src="https://ibb.co/cN7yLBV" alt="гугл поисковик">
